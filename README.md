@@ -6,7 +6,7 @@ Ce projet est une application web permettant de jouer à plusieurs jeux de carte
 - ⚔️ **Bataille ouverte**
 - 🃏 **8 américain**
 
-Ce projet a été réalisé dans le cadre de notre deuxième année de Licence Informatique, en collaboration avec **Dogukan Tokmak**, **Sofiane Hammar**, **Sami Chbicheb** et moi-même **Aly Hachem Reda**.
+Ce projet a été réalisé dans le cadre de notre deuxième année de Licence Informatique, en collaboration avec **Dogukan Tokmak**, **Sofiane Hammar**, **Aly Hachem Reda** et moi-même **Sami Chbicheb**.
 
 ## 🚀 Objectifs du projet
 
@@ -45,9 +45,9 @@ node serveur.js
 ## 👥 Auteurs
 
 - **Sami Chbicheb** 
-- **Dogukan Tokmak** : [@MonkeyDMugiwara](https://github.com/MonkeyDMugiwara)
+- **Dogukan Tokmak** 
 - **Sofiane Hammar**
-- **Aly Hachem Reda** : [@laprise221](https://github.com/laprise221)
+- **Aly Hachem Reda**
 
 ---
 
